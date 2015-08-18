@@ -18,8 +18,7 @@ background-color:#5cbf2a;
 
 }
 #button1:active{
-	position:inherit;
-	top:100px;
+
 	outline-width: 0%;
 }
 
